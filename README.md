@@ -4,9 +4,9 @@ Este repositório contém um treino detalhado de Loops utilizando exemplos simpl
 
 ### Objetivos do Estudo
 
-Neste estudo, buscamos:  
-- Aprimorar o conhecimneto sobre estrutura das tabelas.  
-- Treinar e adquirir conhecimento em bibliotecas Python e Loops.  
+Neste estudo, busquei:  
+- Aprimorar o conhecimento sobre estrutura das tabelas.  
+- Treinar e adquirir conhecimentos em bibliotecas Python, loops e condicionais.  
 - Utilizar visualizações para entender melhor os dados.  
 
 ### Ferramentas Utilizadas
